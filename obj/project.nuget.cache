@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RTP8QsLT734/oYENp2aziL8SGvvL/ZowsATHskA+rCcDxJvEPCU7PeyMM98UY8YD3V70OzoDv7oAplZH8sdwNQ==",
+  "success": true,
+  "projectFilePath": "/Users/ultimatepritam/Projects/TestProject/TestProject/TestProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/ultimatepritam/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/ultimatepritam/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/ultimatepritam/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/ultimatepritam/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/ultimatepritam/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/ultimatepritam/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
